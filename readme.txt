@@ -8,3 +8,6 @@ Git is free software distributed under the GPL.
 加了一下东西
 
 Creating a new branch is quick.
+
+
+Creating a new branch is quick & simple.
